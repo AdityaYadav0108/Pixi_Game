@@ -1,0 +1,111 @@
+{"frames": {
+
+"roll000.png":
+{
+	"frame": {"x":0,"y":0,"w":120,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":80},
+	"sourceSize": {"w":120,"h":80}
+},
+"roll001.png":
+{
+	"frame": {"x":0,"y":80,"w":120,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":80},
+	"sourceSize": {"w":120,"h":80}
+},
+"roll002.png":
+{
+	"frame": {"x":0,"y":160,"w":120,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":80},
+	"sourceSize": {"w":120,"h":80}
+},
+"roll003.png":
+{
+	"frame": {"x":0,"y":240,"w":120,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":80},
+	"sourceSize": {"w":120,"h":80}
+},
+"roll004.png":
+{
+	"frame": {"x":0,"y":320,"w":120,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":80},
+	"sourceSize": {"w":120,"h":80}
+},
+"roll005.png":
+{
+	"frame": {"x":0,"y":400,"w":120,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":80},
+	"sourceSize": {"w":120,"h":80}
+},
+"roll006.png":
+{
+	"frame": {"x":0,"y":480,"w":120,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":80},
+	"sourceSize": {"w":120,"h":80}
+},
+"roll007.png":
+{
+	"frame": {"x":0,"y":560,"w":120,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":80},
+	"sourceSize": {"w":120,"h":80}
+},
+"roll008.png":
+{
+	"frame": {"x":0,"y":640,"w":120,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":80},
+	"sourceSize": {"w":120,"h":80}
+},
+"roll009.png":
+{
+	"frame": {"x":0,"y":720,"w":120,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":80},
+	"sourceSize": {"w":120,"h":80}
+},
+"roll010.png":
+{
+	"frame": {"x":0,"y":800,"w":120,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":80},
+	"sourceSize": {"w":120,"h":80}
+},
+"roll011.png":
+{
+	"frame": {"x":0,"y":880,"w":120,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":80},
+	"sourceSize": {"w":120,"h":80}
+}},
+"animations": {
+	"roll": ["roll000.png","roll001.png", "roll002.png","roll003.png", "roll004.png","roll005.png", "roll006.png","roll008.png", "roll009.png", "roll010.png", "roll011.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "roll.png",
+	"format": "RGBA8888",
+	"size": {"w":120,"h":960},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f481d7031d34e0ed54a5b93a4ecaf5f1:2221c6129cdf16440142be23dde389d6:9d8e031ffab51c2f6a669aa97d76b99d$"
+}
+}
